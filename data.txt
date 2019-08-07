@@ -1,5 +1,5 @@
 {
-   "items":[
+   "products":[
       {
          "name":"Brahma",
          "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/brahma_extra_lager_600ml.png"
