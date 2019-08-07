@@ -1,54 +1,56 @@
-"items":[
-    {
-        "name":"Brahma",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/brahma_extra_lager_600ml.png"
-    },
-    {
-        "name":"Skol",
-        "thumbnail":"https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/f07e9d72-d65d-4c53-adf7-0a5769ab91d5/201902261458_skol3.png"
-    },
-    {
-        "name":"Stella Artois",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/stella-artois_550ml.png"
-    },
-    {
-        "name":"Corona",
-        "thumbnail":"https://d8qczum2flh86.cloudfront.net/images/products/17415/large/corona_can-removebg-preview.png"
-    },
 {
-        "name":"Original",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/original_600ml.png"
-    },
-    {
-        "name":"Suco do Bem",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/dobem_laranja_1l.png"
-    },
-    {
-        "name":"Fusion",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/fusion_fusion_250ml.png"
-    },
-    {
-        "name":"Budweiser",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/budweiser_600ml.png"
-    },
-    {
-        "name":"Hoegaarden",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/hoegaarden_wit-blanche_330ml.png"
-    },
-    {
-        "name":"Serramalte",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/serramalte_600ml.png"
-    },
-    {
-        "name":"Gatorade",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/gatorade-limao_500ml.png"
-    },
-    {
-        "name":"Guaraná Antarctica",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/guarana_350ml.png"
-    },
-    {
-        "name":"H20H!",
-        "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/h2oh_limao_310ml.png"
-    }
-]
+   "items":[
+      {
+         "name":"Brahma",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/brahma_extra_lager_600ml.png"
+      },
+      {
+         "name":"Skol",
+         "thumbnail":"https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/f07e9d72-d65d-4c53-adf7-0a5769ab91d5/201902261458_skol3.png"
+      },
+      {
+         "name":"Stella Artois",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/stella-artois_550ml.png"
+      },
+      {
+         "name":"Corona",
+         "thumbnail":"https://d8qczum2flh86.cloudfront.net/images/products/17415/large/corona_can-removebg-preview.png"
+      },
+      {
+         "name":"Original",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/original_600ml.png"
+      },
+      {
+         "name":"Suco do Bem",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/dobem_laranja_1l.png"
+      },
+      {
+         "name":"Fusion",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/fusion_fusion_250ml.png"
+      },
+      {
+         "name":"Budweiser",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/budweiser_600ml.png"
+      },
+      {
+         "name":"Hoegaarden",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/hoegaarden_wit-blanche_330ml.png"
+      },
+      {
+         "name":"Serramalte",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/serramalte_600ml.png"
+      },
+      {
+         "name":"Gatorade",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/gatorade-limao_500ml.png"
+      },
+      {
+         "name":"Guaraná Antarctica",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/guarana_350ml.png"
+      },
+      {
+         "name":"H20H!",
+         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/h2oh_limao_310ml.png"
+      }
+   ]
+}
