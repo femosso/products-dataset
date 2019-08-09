@@ -1,22 +1,6 @@
 {
    "products":[
       {
-         "name":"Brahma",
-         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/brahma_extra_lager_600ml.png"
-      },
-      {
-         "name":"Skol",
-         "thumbnail":"https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/f07e9d72-d65d-4c53-adf7-0a5769ab91d5/201902261458_skol3.png"
-      },
-      {
-         "name":"Stella Artois",
-         "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/stella-artois_550ml.png"
-      },
-      {
-         "name":"Corona",
-         "thumbnail":"https://d8qczum2flh86.cloudfront.net/images/products/17415/large/corona_can-removebg-preview.png"
-      },
-      {
          "name":"Original",
          "thumbnail":"https://www.ambev.com.br/conteudo/uploads/2019/03/original_600ml.png"
       },
